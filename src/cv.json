@@ -1,0 +1,60 @@
+{
+    "Studies":[
+        {
+            "id":1,
+            "course":"Systemutvecklare .NET",
+            "school":"Edugrade",
+            "year":"2023 - pågående",
+            "description":"Yrkeshögskola där jag läser om C#, webutveckling HTML/CSS/Javascript, Databaser m.m"
+        },
+        {
+            "id":2,
+            "course":"Programmerare",
+            "school":"Lexicon AB",
+            "year":"2022 februari - juni",
+            "description":"Arbetsmarknadsutbildning där jag läst om C#, HTML/CSS, JavaScript, Databaser m.m."
+        },
+        {
+            "id":3,
+            "course":"Stadsnätsingenjör",
+            "school":"Iftac",
+            "year":"2014-2016",
+            "description":"Yrkeshögskola där jag läste Cisco kurser på CCNA och CCNP nivå, Där lärde jag mig bland annat om installation och felsökning av nätverksutrustning och säkerhet. I utbildningen ingick även en kurs där jag lärde mig att svetsa fiber.\n\n CCNA: Introduction to Networks, Routing and Switching Essentials, Scaling Networks, Connecting Networks, Security\n\nCCNP: Implementing IP Routing, Implementing IP Switching, Maintaining and Troubleshooting IP Networks"
+        },
+        {
+            "id":4,
+            "course":"El och Energiprogrammet",
+            "school":"Staffangymnasiet",
+            "year":"2012-2014",
+            "description":"Gymnasium i Söderhamn där jag läste Cisco, webbdesign där jag lärde mig att programmera och designa hemsidor och en kort extrakurs om PHP programmering där jag fick lära mig grunderna"
+        }
+    ],
+    
+    "Work":[
+        {
+            "Workplace":"Fiberstaden(Stadsnätstekniker)",
+            "year":"2019-2020",
+            "description":"Projektanställning där jag arbetade med att konfigurera och montera Huawei nätverksutrustning."
+            
+        },
+        {
+            "Workplace":"Kontorscenter (Praktik)",
+            "year":"2017-2018",
+            "description":"Praktik där jag fått följa med och hjälpa till med support av datorer/nätverk, felsöka/reparera skrivare och montering av Airfiber."
+            
+        },
+        {
+            "Workplace":"Acreo RISE (Praktik)",
+            "year":"2017",
+            "description":"Praktik där jag fick Felsöka nätverk med Cisco, Huawei och HP utrustning, Dokumentera ändringar, Felsökt datorer, konfigurera APs och installera switchar."
+            
+        },
+        {
+            "Workplace":"InternetPort (Praktik)",
+            "year":"2015-2016",
+            "description":"Praktik tre gånger under utbildningen där jag fick göra mycket småjobb som att förbereda routrar för kunder och felsöka datorer."
+            
+        }
+
+    ]
+}

@@ -1,0 +1,18 @@
+.guideMain article{
+    
+    width: 60%;
+    background-color:  #333;
+    min-height: 700px;
+    margin: auto;
+    padding: 10px 20px
+}
+.guideMain article h2{
+    text-align: center;
+    
+}
+.guideMain li{
+    list-style: none;
+}
+.guideMain h3{
+    text-decoration:underline
+}

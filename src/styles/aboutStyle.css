@@ -1,0 +1,11 @@
+article{
+    width: 60%;
+    background-color:  #333;
+    min-height: 700px;
+    margin: auto;
+    padding: 10px 20px
+}
+article h2{
+    text-align: center;
+    
+}
